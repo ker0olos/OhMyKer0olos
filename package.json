@@ -1,10 +1,9 @@
 {
-  "name": "purple-oblivione-theme",
-  "displayName": "Purple Oblivion",
-  "publisher": "herp-project",
-  "description": "A port of [Oblivion] theme from MonoDevelop",
-  "version": "0.2.0",
-  "icon": "https://gitlab.com/herpproject/purple-oblivione-theme/raw/master/images/icon.jpg",
+  "name": "ohmyker0olos",
+  "displayName": "OhMyKer0olos!!",
+  "publisher": "ker0olos",
+  "description": "The only theme my eyes can handle",
+  "version": "0.1.0",
   "license": "MIT",
   "scripts":
   {
@@ -24,7 +23,7 @@
     "themes":
     [
       {
-        "label": "Purple Oblivion",
+        "label": "OhMyKer0olos!!",
         "uiTheme": "vs-dark",
         "path": "./theme.json"
       }

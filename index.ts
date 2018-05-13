@@ -1,7 +1,7 @@
 import * as path from 'path';
 import { generateTheme, IColorSet } from 'vscode-theme-generator';
 
-const themeName = 'Purple Oblivion';
+const themeName = 'OhMyKer0olos!!';
 
 const color =
 {
@@ -33,14 +33,13 @@ const colorSet: IColorSet =
   {
     comment: color.grey,
     boolean: color.purple,
-    function: color.red,
+    // function: color.red,
     functionCall: color.white,
     identifier: color.whitish,
     keyword: color.purple,
     number: color.orange,
     storage: color.greenish,
     string: color.orange,
-    // comment: color.red,
     // class: color.red,
     // classMember: color.red,
     // type: color.red,

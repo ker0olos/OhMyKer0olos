@@ -1,5 +1,5 @@
 {
-  "name": "Purple Oblivion",
+  "name": "OhMyKer0olos!!",
   "tokenColors": [
     {
       "name": "Global settings",
@@ -113,7 +113,7 @@
       "name": "Function definition",
       "scope": "meta.function entity.name.function",
       "settings": {
-        "foreground": "#FF5555"
+        "foreground": "#8ED15D"
       }
     },
     {
