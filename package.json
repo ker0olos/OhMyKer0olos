@@ -1,30 +1,37 @@
 {
-  "name": "generated-theme",
-  "displayName": "Generated Theme",
-  "publisher": "your-name",
-  "description": "A generated theme for Visual Studio Code",
-  "version": "0.0.1",
+  "name": "purple-oblivione-theme",
+  "displayName": "Purple Oblivion",
+  "publisher": "herp-project",
+  "description": "A port of [Oblivion] theme from MonoDevelop",
+  "version": "0.2.0",
+  "icon": "https://gitlab.com/herpproject/purple-oblivione-theme/raw/master/images/icon.jpg",
   "license": "MIT",
-  "scripts": {
+  "scripts":
+  {
     "prestart": "tsc index.ts",
     "start": "node index.js"
   },
-  "engines": {
+  "engines":
+  {
     "vscode": "^1.11.0"
   },
-  "categories": [
+  "categories":
+  [
     "Themes"
   ],
-  "contributes": {
-    "themes": [
+  "contributes":
+  {
+    "themes":
+    [
       {
-        "label": "Generated theme",
+        "label": "Purple Oblivion",
         "uiTheme": "vs-dark",
         "path": "./theme.json"
       }
     ]
   },
-  "devDependencies": {
+  "devDependencies":
+  {
     "@types/node": "^7.0.10",
     "typescript": "^2.2.1",
     "vscode-theme-generator": "*"
