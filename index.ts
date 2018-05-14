@@ -5,7 +5,7 @@ const themeName = 'OhMyKer0olos!!';
 
 const color =
 {
-  dark: '#252527',
+  dark: '#252526',
   whitish: '#D3D7CF',
   white: '#FFFFFF',
   greenish: '#4EC9B0',

@@ -3,6 +3,7 @@
   "displayName": "OhMyKer0olos!!",
   "publisher": "ker0olos",
   "description": "Just another vscode theme!!",
+  "icon": "https://gitlab.com/ker0olos/ohmyker0olos/raw/master/images/icon.png",
   "version": "0.1.0",
   "license": "MIT",
   "scripts":
