@@ -3,13 +3,15 @@
   "displayName": "OhMyKer0olos!!",
   "publisher": "ker0olos",
   "description": "Just another vscode theme!!",
-  "icon": "https://gitlab.com/ker0olos/ohmyker0olos/raw/master/images/icon.png",
+  "icon": "icon.png",
+  "repository": "https://gitlab.com/ker0olos/ohmyker0olos",
   "version": "0.1.0",
   "license": "MIT",
   "scripts":
   {
     "prestart": "tsc index.ts",
-    "start": "node index.js"
+    "start": "node index.js",
+    "build": "vsce package"
   },
   "engines":
   {
