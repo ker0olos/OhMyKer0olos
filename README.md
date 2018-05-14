@@ -1,11 +1,12 @@
 <h1>OhMyker0olos!!</h1>
-<h3>The only theme my eyes can handle</h3>
+<h3>Just another vscode theme!!</h3>
 
-<!-- <h4>C#</h4>
-<a href=""><img src="https://gitlab.com/herpproject/purple-oblivione-theme/raw/master/images/csharp.jpg"></a>
-<h4>JS</h4>
-<a href=""><img src="https://gitlab.com/herpproject/purple-oblivione-theme/raw/master/images/js.jpg"></a>
-<h4>XML</h4>
-<a href=""><img src="https://gitlab.com/herpproject/purple-oblivione-theme/raw/master/images/xml.jpg"></a>
-<h4>JSON</h4>
-<a href=""><img src="https://gitlab.com/herpproject/purple-oblivione-theme/raw/master/images/json.jpg"></a> -->
+<h4>html</h4>
+<a href=""><img src="https://gitlab.com/ker0olos/ohmyker0olos/raw/master/images/html.png"></a>
+
+<h4>Javascript</h4>
+<a href=""><img src="https://gitlab.com/ker0olos/ohmyker0olos/raw/master/images/javascript.png"></a>
+
+
+<h4>CSS</h4>
+<a href=""><img src="https://gitlab.com/ker0olos/ohmyker0olos/raw/master/images/css.png"></a>
