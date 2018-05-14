@@ -55,7 +55,7 @@ const colorSet: IColorSet =
   {
     'selection.background': '#125b8c',
     'list.activeSelectionBackground': '#094771',
-    'list.inactiveSelectionBackground': '#094771',
+    'list.inactiveSelectionBackground': '#313133',
     'list.inactiveSelectionForeground': '#FFFFFF',
     'list.focusBackground': '#073655',
     'list.hoverBackground': '#2A2D2E',
