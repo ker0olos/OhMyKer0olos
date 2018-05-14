@@ -33,21 +33,43 @@ const colorSet: IColorSet =
   {
     comment: color.grey,
     boolean: color.purple,
-    // function: color.red,
-    functionCall: color.white,
+    functionCall: color.whitish,
     identifier: color.whitish,
     keyword: color.purple,
     number: color.orange,
     storage: color.greenish,
     string: color.orange,
-    // class: color.red,
-    // classMember: color.red,
-    // type: color.red,
-    // modifier: color.red,
     cssClass: color.bluish,
     cssId: color.bluish,
     cssTag: color.bluish,
-    // markdownQuote: color.red
+  },
+  ui:
+  {
+    guide: '#3e3e42',
+    invisibles: '#3e3e42',
+    selection: '#434044',
+    wordHighlight: '#417012'
+  },
+  overrides:
+  {
+    'selection.background': '#125b8c',
+    'list.activeSelectionBackground': '#094771',
+    'list.inactiveSelectionBackground': '#094771',
+    'list.focusBackground': '#073655',
+    'list.hoverBackground': '#2A2D2E',
+    'editor.lineHighlightBorder': '#161616',
+    'editor.lineHighlightBackground': '#161616',
+    'editor.findMatchBackground': '#0c5096',
+    'editor.findMatchHighlightBackground': '#417012',
+    'focusBorder': '#094771',
+    'button.background': '#094771',
+    'sideBar.background': '#252526',
+    'panel.background': '#252526',
+    'activityBar.background': '#313133',
+    'activityBarBadge.background': '#236ea0',
+    'statusBar.noFolderBackground': '#094771',
+    'statusBar.background': '#094771',
+    'statusBar.debuggingBackground': '#CC6633',
   }
 };
 
