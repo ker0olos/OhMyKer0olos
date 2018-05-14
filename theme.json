@@ -83,7 +83,7 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#6f6f75",
+        "foreground": "#888A85",
         "fontStyle": "italic"
       }
     },
@@ -113,7 +113,7 @@
       "name": "Function definition",
       "scope": "meta.function entity.name.function",
       "settings": {
-        "foreground": "#8ED15D"
+        "foreground": "#D3D7CF"
       }
     },
     {
@@ -285,7 +285,7 @@
       "name": "C# preprocessor",
       "scope": "source.cs meta.preprocessor",
       "settings": {
-        "foreground": "#6f6f75"
+        "foreground": "#888A85"
       }
     },
     {
@@ -354,6 +354,7 @@
     "pickerGroup.border": "#FFFFFF1a",
     "debugToolBar.background": "#333336",
     "selection.background": "#125b8c",
+    "list.inactiveSelectionForeground": "#FFFFFF",
     "editor.lineHighlightBackground": "#161616",
     "editor.findMatchBackground": "#0c5096",
     "editor.findMatchHighlightBackground": "#417012",

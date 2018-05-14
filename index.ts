@@ -33,6 +33,7 @@ const colorSet: IColorSet =
   {
     comment: color.grey,
     boolean: color.purple,
+    function: color.whitish,
     functionCall: color.whitish,
     identifier: color.whitish,
     keyword: color.purple,
@@ -55,6 +56,7 @@ const colorSet: IColorSet =
     'selection.background': '#125b8c',
     'list.activeSelectionBackground': '#094771',
     'list.inactiveSelectionBackground': '#094771',
+    'list.inactiveSelectionForeground': '#FFFFFF',
     'list.focusBackground': '#073655',
     'list.hoverBackground': '#2A2D2E',
     'editor.lineHighlightBorder': '#161616',
