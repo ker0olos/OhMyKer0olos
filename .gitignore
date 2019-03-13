@@ -1,5 +1,6 @@
-/node_modules/
-/*.vsix
+node_modules
 
 theme.json
 index.js
+
+*.vsix
