@@ -5,26 +5,21 @@
   "description": "Just another vscode theme!!",
   "icon": "icon.png",
   "repository": "https://gitlab.com/ker0olos/ohmyker0olos",
-  "version": "0.1.0-2",
+  "version": "0.1.0-3",
   "license": "MIT",
-  "scripts":
-  {
+  "scripts": {
     "prestart": "tsc index.ts",
     "start": "node index.js",
     "build": "vsce package"
   },
-  "engines":
-  {
+  "engines": {
     "vscode": "^1.11.0"
   },
-  "categories":
-  [
+  "categories": [
     "Themes"
   ],
-  "contributes":
-  {
-    "themes":
-    [
+  "contributes": {
+    "themes": [
       {
         "label": "OhMyKer0olos!!",
         "uiTheme": "vs-dark",
@@ -32,8 +27,7 @@
       }
     ]
   },
-  "devDependencies":
-  {
+  "devDependencies": {
     "@types/node": "^7.0.10",
     "typescript": "^2.2.1",
     "vscode-theme-generator": "*"

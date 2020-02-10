@@ -59,6 +59,7 @@ const colorSet: IColorSet =
     'list.inactiveSelectionForeground': '#FFFFFF',
     'list.focusBackground': '#073655',
     'list.hoverBackground': '#2A2D2E',
+    'editor.foldBackground': '#252526',
     'editor.lineHighlightBorder': '#161616',
     'editor.lineHighlightBackground': '#161616',
     'editor.findMatchBackground': '#0c5096',
@@ -70,7 +71,7 @@ const colorSet: IColorSet =
     'activityBar.background': '#313133',
     'activityBarBadge.background': '#236ea0',
     'statusBar.noFolderBackground': '#094771',
-    'statusBar.background': '#094771',
+    'statusBar.background': '#151717',
     'statusBar.debuggingBackground': '#CC6633',
   }
 };
