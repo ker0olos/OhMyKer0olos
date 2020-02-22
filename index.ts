@@ -59,7 +59,7 @@ const colorSet: IColorSet =
     'list.inactiveSelectionForeground': '#FFFFFF',
     'list.focusBackground': '#073655',
     'list.hoverBackground': '#2A2D2E',
-    'editor.foldBackground': '#252526',
+    // 'editor.foldBackground': '#252526',
     'editor.lineHighlightBorder': '#161616',
     'editor.lineHighlightBackground': '#161616',
     'editor.findMatchBackground': '#0c5096',
