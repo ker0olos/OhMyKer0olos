@@ -1,3 +1,3 @@
-# OhMyker0olos
-#### It's my own VSCode theme
-#### It's not on the marktplace, you gotta build it if you want it
+# OhMyKer0olos
+### My little *sexy* Code theme.
+> It's not on the marketplace.

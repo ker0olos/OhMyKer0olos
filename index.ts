@@ -5,7 +5,7 @@ const themeName = 'OhMyKer0olos!!';
 
 const color =
 {
-  dark: '#252526',
+  dark: '#101010',
   whitish: '#D3D7CF',
   white: '#FFFFFF',
   greenish: '#4EC9B0',
@@ -54,22 +54,23 @@ const colorSet: IColorSet =
   overrides:
   {
     'selection.background': '#125b8c',
-    'list.activeSelectionBackground': '#094771',
+    'list.activeSelectionBackground': '#313133',
     'list.inactiveSelectionBackground': '#313133',
     'list.inactiveSelectionForeground': '#FFFFFF',
     'list.focusBackground': '#073655',
     'list.hoverBackground': '#2A2D2E',
-    // 'editor.foldBackground': '#252526',
+    // 'editor.foldBackground': color.dark,
     'editor.lineHighlightBorder': '#161616',
     'editor.lineHighlightBackground': '#161616',
     'editor.findMatchBackground': '#0c5096',
     'editor.findMatchHighlightBackground': '#417012',
     'focusBorder': '#094771',
     'button.background': '#094771',
-    'sideBar.background': '#252526',
-    'panel.background': '#252526',
-    'activityBar.background': '#313133',
-    'activityBarBadge.background': '#236ea0',
+    'sideBar.background': color.dark,
+    'panel.background': color.dark,
+    'activityBar.background': color.dark,
+    'activityBarBadge.background': '#313133',
+    'activityBarBadge.foreground': '#EFF2F2',
     'statusBar.noFolderBackground': '#094771',
     'statusBar.background': '#151717',
     'statusBar.debuggingBackground': '#CC6633',

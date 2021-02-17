@@ -1,19 +1,19 @@
 {
   "name": "ohmyker0olos",
-  "displayName": "OhMyKer0olos!!",
   "publisher": "ker0olos",
-  "description": "Just another vscode theme!!",
-  "icon": "icon.png",
-  "repository": "https://gitlab.com/ker0olos/ohmyker0olos",
-  "version": "0.1.0-3",
+  "version": "0.2.0",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ker0olos/ohmyker0olos"
+  },
   "scripts": {
     "prestart": "tsc index.ts",
     "start": "node index.js",
-    "build": "vsce package"
+    "package": "vsce package"
   },
   "engines": {
-    "vscode": "^1.11.0"
+    "vscode": "^1.53.0"
   },
   "categories": [
     "Themes"
@@ -28,8 +28,8 @@
     ]
   },
   "devDependencies": {
-    "@types/node": "^7.0.10",
-    "typescript": "^2.2.1",
-    "vscode-theme-generator": "*"
+    "@types/node": "^14.14.28",
+    "typescript": "^4.1.5",
+    "vscode-theme-generator": "0.1.5"
   }
 }
