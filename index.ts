@@ -71,8 +71,8 @@ const colorSet: IColorSet =
     'activityBar.background': color.dark,
     'activityBarBadge.background': '#313133',
     'activityBarBadge.foreground': '#EFF2F2',
-    'statusBar.noFolderBackground': '#094771',
-    'statusBar.background': '#151717',
+    'statusBar.noFolderBackground': color.dark,
+    'statusBar.background': color.dark,
     'statusBar.debuggingBackground': '#CC6633',
   }
 };

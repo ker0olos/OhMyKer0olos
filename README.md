@@ -1,2 +1,3 @@
 # OhMyKer0olos
-### My little *sexy* Code theme.
+
+## A little *sexy* vs-code theme
